@@ -1,0 +1,16 @@
+# Arduino IDE / Arduino CLI build artifacts
+build/
+*.elf
+*.bin
+*.map
+
+# Editor and OS metadata
+.vscode/
+.idea/
+*.code-workspace
+Thumbs.db
+Desktop.ini
+
+# Local Wi-Fi credentials
+wifi_secrets.h
+secrets.h
